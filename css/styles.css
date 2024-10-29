@@ -10,3 +10,8 @@ code {
     border-radius: .25rem;
     background-color: rgb(63, 61, 61);
 }
+
+a {
+    color: aliceblue;
+    text-decoration: none;
+}
